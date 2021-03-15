@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ricardo Martins
+- 🎓 Student of the IFCE - Tiangua Campus.
 - 👀 I’m interested in back-end e front-end!
 - 🌱 I’m currently learning Python, Java, C, JavaScript, ...
 - 📧 E-mail: ricardo.martins.6373@gmail.com
