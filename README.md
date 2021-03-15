@@ -5,7 +5,7 @@
     </head>
     <body>
         <h1>Information about me</h1>
-        <div>
+        <div style="background: #cccccc"=>
             <p><b>Name</b>: Ricardo Martins</p>
             <p><b>Education</b>: Incomplete higher education</p>
             <p><b>University/Istitute</b>: Federal Institute of Ceara - IFCE - Tiangua Campus</p>
