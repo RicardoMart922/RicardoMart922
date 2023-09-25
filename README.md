@@ -1,22 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-    </head>
-    <body>
-        <h1>Information about me</h1>
-        <div>
-            <p><b>Name</b>: Ricardo Martins</p>
-            <p><b>Education</b>: Incomplete higher education</p>
-            <p><b>University/Istitute</b>: Federal Institute of Ceara - IFCE - Tiangua Campus</p>
-            <p><b>Course</b>: Bachelor's degree in Computer Science</p>
-            <p><b>Interests</b>: I am interested in the Programming Languages: <em>C</em>, <em>Python</em>, <em>Java</em>, <em>JavaScript</em> besides seeking knowledge in both               the <em>Back-End</em> and the <em>Front-End</em>.</p>
-            <p><b>E-mail</b>: ricardo.martins.6373@gmail.com</p>
-        </div>
-    </body>
-</html>
+## 💜 Olá, meu nome é <strong>Ricardo Martins!</strong>
 
-<!---
-RicardoMart922/RicardoMart922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Sou um jovem em busca de evoluir mais e mais na área da ciência da computação!
+
+🔭 Atualmente estou focado em estudar para participar das competições de programação.
+
+💬 Podem entrar em contato por meio do <a href="https://www.linkedin.com/in/ricardo-martins-19737b228/">linkedin</a>.
+
+----
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" /></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next JS" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoMCordeiro&show_icons=true)
