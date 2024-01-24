@@ -26,5 +26,3 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RicardoMCordeiro&show_icons=true)
