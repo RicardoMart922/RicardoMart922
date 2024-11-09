@@ -1,28 +1,23 @@
-## 💜 Olá, meu nome é <strong>Ricardo Martins!</strong>
+## Olá, sou <strong>Ricardo Martins!</strong>
 
-> Sou um jovem em busca de evoluir mais e mais na área da ciência da computação!
+> Apaixonado pela Ciência da Computação e sempre em busca de aprimoramento. Programação competitiva é uma das minhas maiores motivações, e, no tempo livre, gosto de resolver desafios em plataformas como <a href="https://judge.beecrowd.com/pt/login">Beecrowd</a> e <a href="https://codeforces.com">Codeforces</a>.
 
-🔭 Atualmente estou focado em estudar para participar das competições de programação.
+## Sobre
 
-💬 Podem entrar em contato por meio do <a href="https://www.linkedin.com/in/ricardo-martins-19737b228/">linkedin</a>.
+Graduando em Ciência da Computação no Instituto Federal de Ciência e Tecnologia do Ceará, campus Tianguá, participei das maratonas da Sociedade Brasileira de Computação (SBC), onde desenvolvi uma grande paixão por resolver problemas computacionais de forma elegante e eficiente.
 
-----
+Minha experiência inclui desenvolvimento back-end, mas também exploro o mundo do front-end para aplicações web e desktop, buscando criar soluções completas e funcionais.
 
-## 🚀 Minhas Skills
+## Tecnologias e Ferramentas
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" /></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" /></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" alt="Next JS" /></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
----
+## Projetos Destaque
 
+
+## Minhas Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoMart922&show_icons=true&theme=dracula)
